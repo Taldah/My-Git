@@ -1,0 +1,11 @@
+#Ignore for this folders:
+test/
+#Test Ignore
+
+ bin/
+ *.dll
+ log.*
+!my_special_dll.dll
+
+README
+!/docs/README
